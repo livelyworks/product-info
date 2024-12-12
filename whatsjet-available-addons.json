@@ -1,5 +1,14 @@
 [
   {
-    "title" : "test"
+    "title": "Test Addon",
+    "identifier": "TestAddon",
+    "description": "test addon info",
+    "thumbnail": "stripe.png",
+    "buttons": {
+        "Purchase Link": "https://google.com",
+        "More Info": "",
+        "Help": "",
+        "Video": ""
+      }
   }
 ]
