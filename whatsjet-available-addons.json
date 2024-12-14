@@ -6,9 +6,9 @@
     "thumbnail": "https://i.imgur.com/hqIDIK0.png",
     "buttons": {
         "Purchase Link": "https://google.com",
-        "More Info": "",
-        "Help": "",
-        "Video": ""
+        "More Info": "https://google.com",
+        "Help": "https://google.com",
+        "Video": "https://google.com"
       }
   }
 ]
