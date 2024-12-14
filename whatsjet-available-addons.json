@@ -3,7 +3,7 @@
     "title": "Test Addon",
     "identifier": "TestAddon",
     "description": "test addon info",
-    "thumbnail": "stripe.png",
+    "thumbnail": "https://i.imgur.com/hqIDIK0.png",
     "buttons": {
         "Purchase Link": "https://google.com",
         "More Info": "",
